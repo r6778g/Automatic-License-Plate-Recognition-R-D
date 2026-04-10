@@ -132,14 +132,13 @@ python "Automatic License Plate Recognition-R&D/plate_recognizer_video.py"
 
 ## Notebooks
 
-The `solutions/` folder contains notebook-based experiments for different ALPR strategies. Start with:
+ contains notebook-based experiments for different ALPR strategies. Start with:
 
-- `solutions/01_classic_opencv_tesseract.ipynb`
-- `solutions/03_yolo_paddleocr.ipynb`
-- `solutions/07_cloud_apis.ipynb`
+- `01_classic_opencv_tesseract.ipynb`
+- `03_yolo_paddleocr.ipynb`
+- `07_cloud_apis.ipynb`
 
 ## Notes
 
 - The repo includes local sample assets and model files used during experimentation
 - `venv/`, `venv-paddle/`, caches, and secrets are excluded from git
-- `plate_recognizer_image.py` is currently empty and not part of the active setup
