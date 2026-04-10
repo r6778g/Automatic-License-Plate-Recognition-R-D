@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+pytesseract
+python-dotenv
+requests
+paddleocr
+google-cloud-vision
+jupyter
